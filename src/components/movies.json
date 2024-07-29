@@ -1,0 +1,12 @@
+[
+    { "movie": ["Inception", 5] },
+    { "movie": ["Interstellar", 4] },
+    { "movie": ["The Dark Knight", 6] },
+    { "movie": ["Pulp Fiction", 3] },
+    { "movie": ["The Matrix", 2] },
+    { "movie": ["Fight Club", 1] },
+    { "movie": ["Forrest Gump", 5] },
+    { "movie": ["The Shawshank Redemption", 4] },
+    { "movie": ["The Godfather", 6] },
+    { "movie": ["The Lord of the Rings", 3] }
+]
